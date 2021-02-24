@@ -25,7 +25,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":""
+                 "value":"Lobby"
                 }],
          "type":"tilelayer",
          "visible":true,
