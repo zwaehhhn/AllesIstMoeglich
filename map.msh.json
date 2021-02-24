@@ -25,7 +25,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/github.com\/NeliusFox\/AllesIstMoeglich\/blob\/master\/docs\/github_pages.png"
+                 "value":"https:\/\/neliusfox.github.io\/AllesIstMoeglich\/blob\/master\/docs\/github_pages.png"
                 }],
          "type":"tilelayer",
          "visible":true,
