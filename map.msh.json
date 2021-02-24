@@ -55,7 +55,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/neliusfox.github.io\/AllesIstMoeglich\/Unbenannt.PNG"
+                 "value":"https:\/\/neliusfox.github.io\/AllesIstMoeglich\/TL.PNG"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -76,7 +76,7 @@
                  "value":"..\/Lyon\/lyon.json"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":84,
          "x":0,
          "y":0
@@ -88,7 +88,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":84,
          "x":0,
          "y":0
