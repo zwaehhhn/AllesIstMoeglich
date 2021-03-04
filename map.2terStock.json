@@ -28,7 +28,7 @@
                  "value":"Lobby"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":90,
          "x":0,
          "y":0
@@ -46,7 +46,7 @@
                  "value":"https:\/\/neliusfox.github.io\/AllesIstMoeglich\/MSH.PNG"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":90,
          "x":0,
          "y":0
@@ -64,7 +64,7 @@
                  "value":"..\/Floor1\/floor1.json"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":90,
          "x":0,
          "y":0
@@ -76,7 +76,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":90,
          "x":0,
          "y":0
@@ -94,7 +94,7 @@
                  "value":"..\/Lyon\/lyon.json"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":90,
          "x":0,
          "y":0
